@@ -1,6 +1,6 @@
 # Royal Enfield Hunter 350
 
-### Available Colors
+## Available Colors
 
 #### Factory Black
 <img src="./images/hunter-350-factory-black.png" alt="Factory Black"/>
